@@ -1,6 +1,6 @@
 ### Hi there ~ 👋
 
-![](https://github-readme-stats.vercel.app/api?username=CYYHH3&show_icons=true&hide_border=true&theme=material-palenight&bg_color=DEG,89253e,3a6186)
+![](https://github-readme-stats.vercel.app/api?username=CYYHH3&show_icons=true&hide_border=true&theme=material-palenight&bg_color=DEG,23074d,cc5333)
 
 <!--
 **CYYHH3/CYYHH3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
