@@ -1,6 +1,6 @@
 ### Hi there ~ 👋
 
-![](https://github-readme-stats.vercel.app/api?username=CYYHH3&show_icons=true&hide_border=true&theme=material-palenight&bg_color=DEG,89253e,3a6186&text_color=e5e5e5&title_color=d2a7ee)
+![](https://github-readme-stats.vercel.app/api?username=CYYHH3&show_icons=true&hide_border=true&theme=material-palenight&bg_color=DEG,89253e,3a6186&title_color=d2a7ee&text_color=e5e5e5)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CYYHH3&layout=compact&card_width=297)
 
 <!--
